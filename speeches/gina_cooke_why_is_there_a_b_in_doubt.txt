@@ -1,41 +1,75 @@
 Gina Cooke: Why is there a "b" in doubt?
+なんでdoubtに"b"がおるん？
 http://www.ted.com/talks/lang/en/gina_cooke_why_is_there_a_b_in_doubt.html
 
 1.
 People often think the word "doubt" spelling is a little crazy because of the letter "b".
+人々は"doubt"のスペルに"b"が入ってんのちょっと変だなって思ってる。
 
 2.
 Since it doesn't spell a sound, most folks can't figure out what it's doing there.
+だって発音しないし、大体の人はそれが何してんのかわかんない。
+
+folks:人々
+figure out:理解する
 
 3.
 But in spite of what most of us learn in school, sound is never the most important aspect of spelling an English word.
+大抵の人が学校で学ぶのに、発音に英単語の綴りは全く重要じゃないのよ。
+
+in spite of:～にもかかわらず
+what(接続詞):～なこと
+most of us:大抵の人
+aspect:～な側面
 
 4.
 A word's meaning and history need to come first.
+まず、言葉の意味と歴史について話そう。
+（「言葉の意味と歴史は初めにくる必要がある」の意訳のつもり）
 
 5.
 To doubt means to question, to waver, to hesitate.
+疑うということは疑問を持つこと、気持ちが揺らぐこと、ためらうことを意味する。
+
+To (動詞):～すること（不定詞の「名詞的用法」というらしい）
+mean to:～を意味する
 
 6.
 As a noun, it means uncertainty or confusion.
+名詞としては、不確実性や混乱を意味する。
+
+noun:名詞
+uncertainty:不確実性
+consufion:混乱
 
 7.
 The present-day English word "doubt" started as a Latin word, "dubitare".
+今の英語の"doubt"はラテン語の"dubitare"が起源なのよ。
+
+present-day:現代
 
 8.
 It first moved from Latin into French where it lost both its "buh" sound and its letter "b".
+はじめに、"buh"の発音と"b"の綴りが消えたのはラテン語からフランス語に移った時だ。
 
 9.
 And then it came into English in the 13th century.
+そして、13世紀に英語になった。
 
 10.
 About 100 years later, scribes who wrote English but also knew Latin, started to reinsert the "b" into the word's spelling,
+大体100年後、英語を書いたやつがラテン語も知ってて、スペルにまた"b"を入れやがった。
 
 11.
 even though no one pronounced it that way.
+それなのに誰もそのように発音しなかった。
+
+even though:～であるけれども
+pronounce:発音する
 
 12.
 But why would they do this?
+
 
 13.
 Why would anyone in their right mind reinsert a silent letter into a spelling?
