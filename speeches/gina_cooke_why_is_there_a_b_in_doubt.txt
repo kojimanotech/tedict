@@ -69,16 +69,22 @@ pronounce:発音する
 
 12.
 But why would they do this?
-
+でもなんであいつらこうしようとしたんだろうか？
 
 13.
 Why would anyone in their right mind reinsert a silent letter into a spelling?
+なんで皆がスペルに発音しない文字を再び入れることを良しとしたんだろうか？
 
 14.
 Well, because they knew Latin, the scribes understood that the root of "doubt" had a "b" in it.
+んーっと、あいつらラテン語知ってるから、書く人は"doubt"には"b"が元々含まってたのわかってんだよね。
 
 15.
 Over time, even as fewer literate people knew Latin, the "b" was kept because it marked important, meaningful connections to other related words, like "dubious" and "indubitalbly," which were subsequently borrowed into English from the same Latin root, "dubitare".
+時が経つにつれて、ラテン語を読み書きできる人間が減って、"b"は"dubious"や"indubitalbly"のように、関連する他の言葉と繋がる重要で、意味のある印として残った。
+
+Over time:時間とともに
+literate:読み書き
 
 16.
 Understanding these historical connections not only helped us to spell "doubt," but also to understand the meaning of these more sophisticated words.
